@@ -1,0 +1,11 @@
+.DashCard {
+  transition: all 0.2s ease-in-out;
+}
+
+.DashCard:hover {
+  transform: scale(1.1);
+}
+
+.bg-custom {
+  background-color: #6d28fe !important;
+}

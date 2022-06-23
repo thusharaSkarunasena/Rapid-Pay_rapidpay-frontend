@@ -1,0 +1,38 @@
+@import url('https://fonts.googleapis.com/css2?family=Maven+Pro:wght@400;500;600;700;800;900&display=swap');
+* {
+  font-family: 'Maven Pro', sans-serif;
+}
+
+.btn-custom {
+  background-color: #7333FE !important;
+  border-color: #7333FE !important;
+  color: #FFFFFF !important;
+}
+.btn-custom:hover,
+.btn-custom:active,
+.btn-custom:visited,
+.btn-custom:focus {
+  background-color: #6D28FE !important;
+  border-color: #6D28FE !important;
+  color: #FFFFFF !important;
+}
+
+.btn-outline-custom {
+  background-color: #FFFFFF !important;
+  border-color: #6D28FE !important;
+  color: #6D28FE !important;
+}
+.btn-outline-custom:hover,
+.btn-outline-custom:active,
+.btn-outline-custom:visited,
+.btn-outline-custom:focus {
+  background-color: #7333FE !important;
+  border-color: #7333FE !important;
+  color: #FFFFFF !important;
+}
+
+input[type=number]::-webkit-inner-spin-button,
+input[type=number]::-webkit-outer-spin-button{
+  -webkit-appearance: none;
+  margin: 0;
+}
